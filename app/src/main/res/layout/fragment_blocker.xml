@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:flatui="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_gradient"
+    android:orientation="vertical"
+    tools:context="com.tally.yellowbrickme.app.BlockerFragment">
+
+    <com.cengalabs.flatui.views.FlatTextView
+        android:layout_width="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content"
+        android:text="Blocker To Do"
+        flatui:fontWeight="light"
+        android:textSize="40sp"
+        flatui:theme="Grass" />
+
+</LinearLayout>

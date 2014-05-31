@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YellowBrickMe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="calendar">Calendar</string>
+    <string name="blocking_mechanism">Blocking</string>
+    <string name="history">History</string>
+    <string name="tip_of_the_day">Tip of the Day:</string>
+    <string name="study">Study!</string>
+    <string name="stop">I am done!</string>
+    <string name="awesome_job">Awesome Job!</string>
+    <string name="here_we_go">Here we go...</string>
+    <string name="log_it">Log it!</string>
+    <string name="progress">Progress...</string>
+    <string name="need_break">Need a break...</string>
+    <string name="ready">Ready again!</string>
+    <string name="home_screen_welcome">Welcome to the Home Screen! :)</string>
+
+    <color name="white">#FFFFFF</color>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+</resources>
